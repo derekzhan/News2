@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "8d70aaf2d64458ada8482f76cad3c9d4"
+build_time: [1582038869, 931898000]
+inputs:
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/Classes/Controller/HomeViewController.swift": [1582038458, 964925457]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/Classes/Model/NewsMode.swift": [1582036092, 358522563]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/Classes/Tools/NetworkTools.swift": [1582029833, 820000052]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/ViewController.swift": [1582032134, 636628411]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/Classes/View/NewsViewCell.swift": [1582038869, 809009207]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/AppDelegate.swift": [1582032299, 613664470]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/News2/SceneDelegate.swift": [1582032134, 633122250]

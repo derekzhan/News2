@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0b580b8f5a9fad022c5c43f4a39f411f"
+build_time: [1582038606, 143990000]
+inputs:
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/AFError.swift": [1582032467, 372370226]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Alamofire.swift": [1582032467, 374274958]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1582032467, 370724627]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/MultipartFormData.swift": [1582032467, 369212510]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1582032467, 369805048]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Notifications.swift": [1582032467, 373254489]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/ParameterEncoding.swift": [1582032467, 371770507]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Request.swift": [1582032467, 374812660]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Response.swift": [1582032467, 373738405]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/ResponseSerialization.swift": [1582032467, 375916596]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Result.swift": [1582032467, 371255605]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1582032467, 376559277]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/SessionDelegate.swift": [1582032467, 377231537]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/SessionManager.swift": [1582032467, 375386313]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/TaskDelegate.swift": [1582032467, 368322571]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Timeline.swift": [1582032467, 370270137]
+  "/Users/zhanweichun/Documents/work/code/ios/News2/Pods/Alamofire/Source/Validation.swift": [1582032467, 372876456]
